@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\controllers\\invoice_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\invoice_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\models\\invoice_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\models\\invoice_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\webapplicationtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\webapplicationtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|c:\\users\\alex_\\onedrive\\documentos\\testlogicaldata\\webapplicationtest\\webapplicationtest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF891D9A-FE45-4C9F-8141-2A77C707702E}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Articles.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\Articles.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Articles.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\Articles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:29:25.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:53:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:26:49.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Invoice.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:40:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Users.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:44:33.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\appsettings.json",
+              "RelativeToolTip": "WebApplicationTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T03:10:04.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice_DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\Invoice_DetailsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\Invoice_DetailsController.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\Invoice_DetailsController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\Invoice_DetailsController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAYwHIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:15:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice_Details.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Invoice_Details.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\Invoice_Details.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Models\\Invoice_Details.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\Invoice_Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:48:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:00:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplicationTest\\WeatherForecast.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:04:49.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebApplicationTest.http",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.http",
+              "RelativeDocumentMoniker": "WebApplicationTest\\WebApplicationTest.http",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.http",
+              "RelativeToolTip": "WebApplicationTest\\WebApplicationTest.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-05T01:04:57.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Program.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeToolTip": "WebApplicationTest\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:04:40.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:03:32.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alex_\\OneDrive\\Documentos\\TestLogicalData\\WebApplicationTest\\WebApplicationTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationTest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T01:03:16.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
